@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testtask-lunaedge-2/static/css/main.d5f83248.css",
+    "main.js": "/testtask-lunaedge-2/static/js/main.d4217e53.js",
+    "static/js/453.acd68af0.chunk.js": "/testtask-lunaedge-2/static/js/453.acd68af0.chunk.js",
+    "index.html": "/testtask-lunaedge-2/index.html",
+    "main.d5f83248.css.map": "/testtask-lunaedge-2/static/css/main.d5f83248.css.map",
+    "main.d4217e53.js.map": "/testtask-lunaedge-2/static/js/main.d4217e53.js.map",
+    "453.acd68af0.chunk.js.map": "/testtask-lunaedge-2/static/js/453.acd68af0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f83248.css",
+    "static/js/main.d4217e53.js"
+  ]
+}
